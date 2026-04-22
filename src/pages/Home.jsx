@@ -101,7 +101,7 @@ export default function Home({ onNavigate }) {
       {/* Header */}
       <div className="pt-10 pb-4">
         <p className="text-sage-600 font-medium text-sm">{timeGreet}</p>
-        <h1 className="text-2xl font-bold text-gray-800 mt-0.5">Painel de Bem-estar</h1>
+        <h1 className="text-2xl font-bold text-gray-800 mt-0.5">Aurora</h1>
       </div>
 
       {/* Streak Cards */}
